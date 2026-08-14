@@ -1,0 +1,7 @@
+{
+  "name": "Velcora AI",
+  "description": "High-velocity autonomous web scraper, data intelligence studio, workflow automation orchestrator, and cognitive deep focus suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
