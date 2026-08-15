@@ -128,6 +128,11 @@ export const Footer: React.FC<{ onOpenSection: (id: string) => void }> = ({ onOp
               </div>
             </div>
 
+            <div className="mt-4 space-y-1 text-xs text-white/70">
+              <a href="mailto:velcora.ai@gmail.com" className="block hover:text-white transition-colors">velcora.ai@gmail.com</a>
+              <a href="tel:+919138278584" className="block hover:text-white transition-colors">+919138278584</a>
+            </div>
+
             <div>
               <button
                 onClick={scrollToTop}
